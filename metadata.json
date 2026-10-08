@@ -1,0 +1,6 @@
+{
+  "name": "Ovisito Shop",
+  "description": "Aplikasi Marketplace Oleh-oleh dan Produk Khas Aceh - Mudah Belanja, Makin Dekat ke Aceh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
